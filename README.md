@@ -1,0 +1,2 @@
+# Actividades
+Actividades informáticas
